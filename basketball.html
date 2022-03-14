@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body style="background-color:powderblue;">
+
+<h1>Alexander Vezenkov</h1>
+<p>Aleksandar "Aleks" Vezenkov (alternate spelling: Alexander "Alex" Vezenkof) (Bulgarian: Александър "Алекс" Везенков; Greek: Αλέξανδρος Βεζένκοφ; born 6 August 1995), commonly known as Sasha Vezenkov[2] (Bulgarian: Сашо Везенков; Greek: Σάσα Βεζένκοφ), is a Bulgarian professional basketball player for Olympiacos of the Greek Basket League and the EuroLeague. He is a 2.06 m (6 ft 9 in) tall[3] 102 kg (225 lb.)[4] power forward, that can also play as a small forward. Vezenkov was born in Cyprus, but, due to his Bulgarian descent, he has regularly chosen to represent the Bulgarian national team.[5][6][7] Vezenkov holds triple citizenship for Bulgaria, Cyprus and Greece.[1]</p>
+<img src="изтеглен файл.jpg" alt="Vezenkov">
+<table>
+  <tr>
+    
+    <th>Teams that Vezenkov has played for during his professional</th>
+  </tr>
+  <tr>
+    <td>1. Aris</td>
+    
+    
+  </tr>
+  <tr>
+    
+    
+    <td>2. FC Barcelona</td>
+  </tr>
+<tr>
+    
+    
+    <td>3. Brooklyn Nets</td>
+  </tr><tr>
+    
+    
+    <td>4. Olympiacos</td>
+  </tr>
+</table>
+<a href="https://en.wikipedia.org/wiki/Sasha_Vezenkov">The information is from here</a>
+
+</body>
+</html>
